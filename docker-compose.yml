@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: hmackiernan/my-friendlyhello:newest
+    image:  hmackiernan/thursday-repo:try_again
     deploy:
       replicas: 5
       resources:
