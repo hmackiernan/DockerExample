@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: hmackiernan/my-friendlyhello:first
+    image: hmackiernan/my-friendlyhello:newest
     deploy:
       replicas: 5
       resources:
